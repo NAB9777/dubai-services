@@ -1,0 +1,23 @@
+{
+  "name": "dubai-services",
+  "version": "1.0.0",
+  "description": "A modern full-stack website for Dubai home services business",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "dubai",
+    "services",
+    "home-services",
+    "nodejs"
+  ],
+  "author": "Dubai Services Team",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "nodemailer": "^8.0.1"
+  }
+}
